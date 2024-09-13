@@ -1,0 +1,154 @@
+module 2:
+1.
+error 
+defect
+bug
+failure : inability of system or component to 
+perform required function within specifed requirements
+
+2.
+types of errors:
+B boundary related errors
+c control flow error
+c calculation errr
+H hardawre error 
+I initial or later state 
+R race condition 
+E errors in handling
+U user interface error
+S state version and id control
+E errors in handling or interpreting data
+L load condition
+T testing error
+
+3.
+Quality:
+bug free 
+delivered on time 
+and within budget
+system or component એમાં
+specified customer requirements and expectaion,
+needs meet thavi જોઈએ
+
+aspects of quality : (GGG CD VR)
+good design
+good funationality
+good sales after service
+consistency
+durable 
+value for money
+reliable 
+
+4.
+Risk
+A factor that could result in future negative 
+consequences.
+
+types of risk :
+project risk
+product risk
+
+5. wbo does testing?
+software developer
+software tester
+end user
+project lead/manager
+
+what do tester?
+test planing
+test design
+test execution
+test environment management
+test data management
+
+Exit criteria:
+out of time
+out of budget
+boss says stop
+all defect have been fixed
+when out exit criteria has been met
+
+
+QA :
+subset of STLC.
+preventive activities 
+process oriented activities.
+focus on process and procedure
+
+QC :
+subset of QA
+corrective process
+product oriented activities.
+focus on actual software testing, indentifying bug through implemntation of process and procedures.
+
+Testing :
+subset of QC
+preventive process.
+product oriented activities.
+focus on actual testing of software
+
+6.
+testing vs debugging
+
+7.
+test scenarion:
+what to be tested?
+A scenario is any functionality that can be tested.
+it is called as test condition or test possibility
+
+test case :
+how to be tested?
+test case involve the set of steps, conditions and input which can be used 
+while we performing the testing task 
+
+8.
+traceability matrix:
+software id developed as per the client requirenents.
+ensure that no one functionality missed.
+if we should make any changes we can easily find 
+which test cases need to update.
+
+types:
+1. forward traceability: mapping of requirements to test cases
+2. backword traceability
+3. bi-directional traceability
+
+9.
+STLC (software testing life cycle):
+1. requirement analysis:
+requurement નું analysis કરે 
+testable requirements હોય એને identify કરે 
+identify types of test to be performed
+prepare RTM
+if automation required.
+
+deliver:
+RTM
+automation feasibility report 
+
+2. test planning:
+preparation test plan/strategy for different kind of testing.
+test tool selection
+test effort estimation
+resource planning, roles and responsibilities
+
+delivered:
+test plan/strategy document
+effort estimation document
+
+3. test case design:
+create test cases or test script
+create test data
+
+delivered:
+test cases/ script
+test data
+
+4. test environment setup:
+
+
+5. test execution:
+
+6. test cycle closure:
+
+
